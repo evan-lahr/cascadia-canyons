@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/cascadia-canyons"
+baseurl: "/cascadia-canyons/index.html"
 url: "https://evan-lahr.github.io"
 permalink: pretty
 markdown: kramdown
