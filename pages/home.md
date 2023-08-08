@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: "/"
+permalink: "/home/"
 title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
 description: "Showcase your projects, work and portfolio with multiple layouts and styles."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
