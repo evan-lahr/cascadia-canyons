@@ -41,7 +41,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - run: gem install webrick
       - name: webrick
-        run: webcrick
+        run: webrick
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
